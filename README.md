@@ -3,7 +3,6 @@
 
 <div id="header" align="center">
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="python" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" title="python" width="60" height="40"/>&nbsp;
 </div>
 <br>
 
